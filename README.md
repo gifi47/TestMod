@@ -6,6 +6,9 @@ This is a mod for **Block Story** using MelonLoader.
 
 ## 📥 Installation / Установка
 
+[Youtube guide](https://youtu.be/8Faq09AMRzI?si=peSL23hgCcRVLgZa)  
+[Ютуб гайд](https://youtu.be/8Faq09AMRzI?si=peSL23hgCcRVLgZa)  
+
 ### 🛠 Steps / Шаги
 
 1. **Download and install MelonLoader**  
