@@ -19,9 +19,9 @@ This is a mod for **Block Story** using MelonLoader.
    [Скачайте файлы мода](https://github.com/gifi47/TestMod/releases)  
 
 3. **Extract mod files into game folder**  
-   Follow instructions on `releases` page to install mod. Extract files from TestMod.zip to `BlockStory/Mods/` and Extract with replacement files from NetStandartPatches to `/MelonLoader/Dependencies/NetStandartPatches/`.  
+   Follow instructions on `releases` page to install mod. Extract files from TestMod.zip to `BlockStory/Mods/` and Extract with replacement files from NetStandartPatches.zip to `/MelonLoader/Dependencies/NetStandartPatches/`.  
    **Распакуйте архив в папку с игрой**  
-   Следуйте инструкциям на странице `releases` для установки мода. Распакуйте файлы из TestMod.zip в папку `BlockStory/Mods/`, а файлы из NetStandartPatches - с заменой в `/MelonLoader/Dependencies/NetStandartPatches/`.  
+   Следуйте инструкциям на странице `releases` для установки мода. Распакуйте файлы из TestMod.zip в папку `BlockStory/Mods/`, а файлы из NetStandartPatches.zip - с заменой в `/MelonLoader/Dependencies/NetStandartPatches/`.  
 
 
 ## ❓ Troubleshooting / Частые проблемы
@@ -34,4 +34,11 @@ Check:
 Проверьте:  
 - Установлена последняя версия MelonLoader.  
 - Версия игры совместима с модом (мод разрабатывался для ПК версии v13.2.1.2).  
-- Все зависимости установлены.
+- Все зависимости установлены.  
+
+### ☠️ Quests, Achievements and Recipes doesn't work / Квесты, Достижения и Рецепты не работают  
+Check dll replacement:
+- Copy and paste with 'replace' files from NetStandartPatches.zip to game folder to `BlockStory/MelonLoader/Dependencies/NetStandartPatches`, in this folder should be 5 .dll files.
+
+Проверьте правильность выполнения замены dll:  
+- Скопируйте и вставьте с заменой файлы из архива NetStandartPatches.zip в папку с игрой в `BlockStory/MelonLoader/Dependencies/NetStandartPatches`, в этой папке должно находиться 5 .dll файлов.
